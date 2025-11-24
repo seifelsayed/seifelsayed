@@ -52,16 +52,8 @@ I'm a **Junior Frontend Developer** passionate about crafting beautiful, respons
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=seifelsayed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=seifelsayed&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifelsayed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
