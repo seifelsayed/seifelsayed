@@ -4,7 +4,9 @@
   
 # 👋 Hi, I'm Seif Elsayed
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Junior+Frontend+Developer;HTML+%26+CSS+Enthusiast;Building+Beautiful+Web+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Junior+Frontend+Developer;HTML+%26+CSS+Enthusiast;Building+Beautiful+Web+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=seifelsayed&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views" />
 
@@ -14,13 +16,14 @@
 
 ## 🚀 About Me
 
-I'm a **Junior Frontend Developer** passionate about crafting beautiful, responsive, and user-friendly web experiences. I specialize in **HTML** and **CSS**, with a keen eye for modern design principles and clean code.
+I'm a **Junior Frontend Developer** passionate about crafting beautiful, responsive, and user-friendly web experiences.  
+I specialize in **HTML** and **CSS**, with a keen eye for modern design principles and clean code.
 
-- 🔭 I'm currently working on **building modern, responsive web interfaces**
-- 🌱 I'm currently learning **JavaScript frameworks and advanced CSS techniques**
-- 💡 I love creating **pixel-perfect designs** that come to life in the browser
-- 🎯 Goal: Master frontend development and create stunning web applications
-- ⚡ Fun fact: I believe every website deserves to be beautiful and accessible!
+- 🔭 Currently working on **modern, responsive web interfaces**
+- 🌱 Learning **JavaScript** and **frontend frameworks** + **advanced CSS techniques**
+- 💡 I enjoy creating **pixel-perfect designs** that feel great to use
+- 🎯 Goal: Become a strong frontend engineer and build stunning web applications
+- ⚡ Fun fact: I believe every website deserves to be beautiful *and* accessible
 
 ---
 
@@ -53,7 +56,19 @@ I'm a **Junior Frontend Developer** passionate about crafting beautiful, respons
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=seifelsayed&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <!-- Streak stats -->
+  <img
+    width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=seifelsayed&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&cache_seconds=86400"
+    alt="GitHub Streak"
+  />
+
+  <!-- General stats -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=seifelsayed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
 
 </div>
 
@@ -73,7 +88,7 @@ I'm a **Junior Frontend Developer** passionate about crafting beautiful, respons
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=seifelsayed&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/seifelsayed)
+[![trophy](https://github-profile-trophy.vercel.app/?username=seifelsayed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -85,10 +100,33 @@ I'm a **Junior Frontend Developer** passionate about crafting beautiful, respons
 
 <div align="center">
 
-### 🚀 Coming Soon!
+### 🦷 DentistCare – Dental Clinic Landing Page
 
-I'm currently working on exciting projects that showcase my frontend development skills.  
-Check back soon to see my latest work in **HTML**, **CSS**, and modern web design!
+[![Dentist Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=seifelsayed&repo=Dentist-Landing-page&theme=tokyonight&hide_border=true)](https://github.com/seifelsayed/Dentist-Landing-page)
+
+**Tech:** HTML5, CSS3, Bootstrap 5, JavaScript  
+**Live Demo:** https://dentist-z01.vercel.app  
+
+A modern, responsive landing page for a dental clinic with:
+
+- Dark / light mode toggle with saved user preference  
+- Smooth animations and clean layout  
+- Clear sections for services, testimonials, and booking
+
+---
+
+### ✅ TaskFlow – To-Do Landing Page
+
+[![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=seifelsayed&repo=To-Do-List&theme=tokyonight&hide_border=true)](https://github.com/seifelsayed/To-Do-List)
+
+**Tech:** HTML5, CSS3, Bootstrap 5, Tailwind CSS (CDN), JavaScript  
+**Live Demo:** https://to-do-list-ochre-xi-84.vercel.app  
+
+A landing page + functional to-do widget featuring:
+
+- Add / complete / delete tasks with filters (All / Active / Completed)  
+- `localStorage` persistence for tasks and language  
+- English / Arabic toggle with full RTL / LTR support
 
 </div>
 
@@ -98,9 +136,9 @@ Check back soon to see my latest work in **HTML**, **CSS**, and modern web desig
 
 <div align="center">
 
-I'm always open to collaborating on interesting projects or discussing web development!
+I'm always open to collaborating on interesting projects or discussing web development.
 
-**Feel free to reach out through GitHub!**
+**Reach me on GitHub:**
 
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seifelsayed)
 
